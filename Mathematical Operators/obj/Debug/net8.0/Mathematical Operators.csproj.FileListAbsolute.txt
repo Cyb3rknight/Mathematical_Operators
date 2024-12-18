@@ -1,0 +1,14 @@
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\bin\Debug\net8.0\Mathematical Operators.exe
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\bin\Debug\net8.0\Mathematical Operators.deps.json
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\bin\Debug\net8.0\Mathematical Operators.runtimeconfig.json
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\bin\Debug\net8.0\Mathematical Operators.dll
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\bin\Debug\net8.0\Mathematical Operators.pdb
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\obj\Debug\net8.0\Mathematical Operators.GeneratedMSBuildEditorConfig.editorconfig
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\obj\Debug\net8.0\Mathematical Operators.AssemblyInfoInputs.cache
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\obj\Debug\net8.0\Mathematical Operators.AssemblyInfo.cs
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\obj\Debug\net8.0\Mathematical Operators.csproj.CoreCompileInputs.cache
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\obj\Debug\net8.0\Mathematical Operators.dll
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\obj\Debug\net8.0\refint\Mathematical Operators.dll
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\obj\Debug\net8.0\Mathematical Operators.pdb
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\obj\Debug\net8.0\Mathematical Operators.genruntimeconfig.cache
+H:\Personal_Projects\Video et recording(Reseau)\Programmation 1\Variables and data types\Mathematical Operators\Mathematical Operators\obj\Debug\net8.0\ref\Mathematical Operators.dll
